@@ -99,7 +99,7 @@ require_once "config/config.php";
 	    <script type="text/javascript" src="assets/js/popper.min.js"></script>
 	    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
         <!-- fontawesome js -->
-	    <script type="text/javascript" src="assets/js/plugins/fontawesome-free-5.4.1-web/js/all.min.js"></script>
+	    <script type="text/javascript" src="assets/plugins/fontawesome-free-5.4.1-web/js/all.min.js"></script>
         <!-- DataTables js -->
 	    <script type="text/javascript" src="assets/plugins/DataTables/js/jquery.dataTables.min.js"></script>
 	    <script type="text/javascript" src="assets/plugins/DataTables/js/dataTables.bootstrap4.min.js"></script>
